@@ -1,0 +1,138 @@
+{
+   "menuitems":[
+    {
+        "id":1,
+        "item":"Home",
+        "ref": "homeRef"
+    },
+    {
+        "id":2,
+        "item":"About",
+        "ref": "aboutRef"
+    },
+    {
+        "id":3,
+        "item":"Skills",
+        "ref": "skillsRef"
+    },
+    {
+        "id":4,
+        "item":"Projects",
+        "ref": "projectRef"
+    },
+    {
+        "id":5,
+        "item":"Contact",
+        "ref": "contactRef"
+    }
+   ],
+
+
+   "Skills":[
+    {
+        "id":1,
+         "skill":"HTML",
+         "icon":"html.svg",
+         "color":"red"
+    },
+    {
+        "id":2,
+         "skill":"CSS",
+         "icon":"css.svg",
+         "color":"blue"
+    },
+    {
+        "id":3,
+         "skill":"JavaScript",
+         "icon":"javascript.svg",
+         "color":"yellow"
+    },
+    {
+        "id":4,
+         "skill":"React",
+         "icon":"react.svg",
+         "color":"green"
+    },
+    {
+        "id":5,
+         "skill":"Java",
+         "icon":"java.svg",
+         "color":"gold"
+    },
+    {
+        "id":6,
+         "skill":"Bootstrap",
+         "icon":"bootstrap.svg",
+         "color":"violet"
+    },
+    {
+        "id":7,
+        "skill":"GitHub",
+         "icon":"github.svg",
+         "color":"black"
+    },
+    {
+        "id":8,
+         "skill":"VScode",
+         "icon":"vscode.svg",
+         "color":"purple"
+    }
+
+   ],
+
+
+   "projects":[
+    {
+        "id":1,
+         "project":"blog site",
+         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1C2hLQfWp6YOpBLhC3JA67HF0YEJ0OpSxTA&usqp=CAU",
+         "link":"https://santhoshxd.github.io/blog/"
+    },
+    {
+        "id":2,
+         "project":"e-commerce web app",
+         "image":"https://t3.ftcdn.net/jpg/02/41/39/06/360_F_241390620_hihddCG15N7I8HyPWUiv1eUH85D2SN9z.jpg",
+         "link":"https://tshirt-classics.vercel.app/"
+    },
+    {
+        "id":3,
+         "project":"e-plant",
+         "image":"https://media.licdn.com/dms/image/D4E0BAQEaG4iq0z8Ssg/company-logo_200_200/0/1686772153233/eplant_inc_logo?e=2147483647&v=beta&t=isgqhl8EhR5uJDVvv_HKYqRKc8FZCXvlswzKZZ1TIkE",
+         "link":"https://santhoshxd.github.io/practice/"
+        },
+        {
+            "id":4,
+            "project":"chatHub",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0jVvVuS0iWV5ewV4KtMJM_k21xe3apaDvbFSo_H37rQ&s",
+            "link":"https://santhoshxd.github.io/chatHub/"
+    }
+
+   ],
+
+   "contact": [
+    {
+      "id": 1,
+      "icon": "https://cdn.hugeicons.com/icons/github-stroke-rounded.svg",
+      "media": "GitHub",
+      "link":"https://github.com/santhoshXD"
+    },
+    {
+      "id": 2,
+      "icon": "https://cdn.hugeicons.com/icons/linkedin-02-stroke-rounded.svg",
+      "media": "LinkedIn" ,
+      "link":"https://www.linkedin.com/in/santhosh-kumar-5a37b8240/"
+    },
+    {
+      "id": 3,
+      "icon": "https://cdn.hugeicons.com/icons/user-stroke-rounded.svg",
+      "media": "Naukri" ,
+      "link":"https://www.naukri.com/mnjuser/profile?id=&altresid"
+    },
+    {
+      "id": 4,
+      "icon": "https://cdn.hugeicons.com/icons/mail-at-sign-01-stroke-rounded.svg",
+      "media": "Gmail" ,
+      "link":"mailto:santhosh.kumar@gmail.com"
+    }
+  ]
+}

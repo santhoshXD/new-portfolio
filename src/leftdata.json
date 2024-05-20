@@ -1,0 +1,24 @@
+{
+   "navitems":[
+    {
+        "id":1,
+        "item":"Home"
+    },
+    {
+        "id":2,
+        "item":"About"
+    },
+    {
+        "id":3,
+        "item":"Projects"
+    },
+    {
+        "id":4,
+        "item":"Skills"
+    },
+    {
+        "id":5,
+        "item":"Contact"
+    }
+   ]    
+}
