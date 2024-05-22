@@ -738,11 +738,11 @@ useEffect(() => {
       <About ref={aboutRef}>
   
     <div className="about-content">
-  
+    <AnimatedOnScroll animationIn="fadeInUp" isVisible={true} duration="1000" once={false} >
       <h3>About Me</h3>
       <p>Tech Enthusiast and an Optimistic Computer Science Graduate looking forward to being a part of an organization where I can expand and enrich my skills and subsequently contribute to the organization’s growth.</p>
       <button onClick={clickToResume}>Download CV <Download /></button>
-      
+      </AnimatedOnScroll>
     </div>
  
 </About>
