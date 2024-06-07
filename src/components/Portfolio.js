@@ -651,7 +651,7 @@ function Portfolio() {
   }
 
   const clickToResume = () => {
-    window.location.href = 'https://1drv.ms/b/c/2cd9454a2341e747/EYpcB1p_bwNHmKO3PRsD9YoBSnbe74bFQRgl9gFQxzbZ5Q?e=ZaEnxg'
+    window.location.href = 'https://1drv.ms/b/c/2cd9454a2341e747/Ef0HSkJi3MtFicw3vwgoLKQBqOoFsZd0IuP-PpObGZE0qw?e=3laq4o'
   }
 
 
