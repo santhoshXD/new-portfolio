@@ -740,7 +740,7 @@ useEffect(() => {
     <div className="about-content">
   
       <h3>About Me</h3>
-      <p>Tech Enthusiast and an Optimistic Computer Science Graduate looking forward to being a part of an organization where I can expand and enrich my skills and subsequently contribute to the organization’s growth.</p>
+      <p>Tech Enthusiast and an Optimistic Computer Science Graduate looking forward to being a part of an organization where I can expand and enrich my skills. I specialize in making websites look great and work smoothly. I use tools to build them and keep learning to improve. I enjoy collaborating on interesting projects with others and staying updated with the latest trends in web development.</p>
       <button onClick={clickToResume}>Download CV <Download /></button>
       
     </div>
